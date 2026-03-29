@@ -1,4 +1,4 @@
-# askme
+# aiask
 
 A new Flutter project.
 
